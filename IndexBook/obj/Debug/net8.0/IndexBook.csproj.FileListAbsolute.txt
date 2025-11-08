@@ -1,0 +1,14 @@
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\bin\Debug\net8.0\IndexBook.exe
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\bin\Debug\net8.0\IndexBook.deps.json
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\bin\Debug\net8.0\IndexBook.runtimeconfig.json
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\bin\Debug\net8.0\IndexBook.dll
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\bin\Debug\net8.0\IndexBook.pdb
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\obj\Debug\net8.0\IndexBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\obj\Debug\net8.0\IndexBook.AssemblyInfoInputs.cache
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\obj\Debug\net8.0\IndexBook.AssemblyInfo.cs
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\obj\Debug\net8.0\IndexBook.csproj.CoreCompileInputs.cache
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\obj\Debug\net8.0\IndexBook.dll
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\obj\Debug\net8.0\refint\IndexBook.dll
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\obj\Debug\net8.0\IndexBook.pdb
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\obj\Debug\net8.0\IndexBook.genruntimeconfig.cache
+C:\Users\TEACHERS PC\source\repos\IndexBook\IndexBook\obj\Debug\net8.0\ref\IndexBook.dll
